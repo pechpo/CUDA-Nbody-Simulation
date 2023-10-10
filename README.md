@@ -9,3 +9,7 @@
 要观看我们准备的七个例子，请进入“播放运动过程”文件夹。
 
 欢迎取用代码，但是记得给仓库打星，谢谢。
+
+![2](https://github.com/pechpo/CUDA-Nbody-Simulation/assets/88359766/3bff3d0d-e915-45ad-95d6-4d06f167993d)
+
+![3](https://github.com/pechpo/CUDA-Nbody-Simulation/assets/88359766/cab5a861-0106-49be-ae5c-7fa23132df06)
